@@ -10,6 +10,7 @@ Current translations are:
 <li>Tradtional Chinese - China</li>
 <li>German - Germany</li>
 <li>Russia - Russian</li>
+<li>Spanish - Spain</li>
 </ul>
 <br>
 <b>
