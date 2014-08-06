@@ -24,4 +24,5 @@ Be sure to credit yourself down here:
 <li>Vexatos: de_DE</li>
 <li>mymagadsl: zh_TW</li>
 <li>Adaptivity: ru_RU</li>
+<li>Juput: es_ES</li>
 </ul></b>
